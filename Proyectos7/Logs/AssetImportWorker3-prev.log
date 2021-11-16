@@ -1,0 +1,710 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1288; Version 2009; 64bit' Language: 'es' Physical Memory: 16251 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/juan-/Documents/Escuela/7° Semestre/Proyectos 7/Proyectos7/Proyectos7
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+52688
+Successfully changed project path to: C:/Users/juan-/Documents/Escuela/7° Semestre/Proyectos 7/Proyectos7/Proyectos7
+C:/Users/juan-/Documents/Escuela/7° Semestre/Proyectos 7/Proyectos7/Proyectos7
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 40.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/juan-/Documents/Escuela/7° Semestre/Proyectos 7/Proyectos7/Proyectos7/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   30.0.14.7212
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56288
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003226 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.199 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3199ms)
+		BeginReloadAssembly (75ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (617ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (256ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (213ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (22ms)
+				ProcessInitializeOnLoadAttributes (101ms)
+				ProcessInitializeOnLoadMethodAttributes (46ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.243962 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.631 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2633ms)
+		BeginReloadAssembly (195ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (2338ms)
+			LoadAssemblies (1018ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (317ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (847ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (92ms)
+				ProcessInitializeOnLoadAttributes (733ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.47 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1405 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.7 MB.
+System memory in use after: 65.8 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1841.
+Total: 4.005400 ms (FindLiveObjects: 0.187800 ms CreateObjectMapping: 0.051800 ms MarkObjects: 3.683000 ms  DeleteObjects: 0.081300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Models
+  artifactKey: Guid(84bc5e0fe164fc642bd4d0c3a3eddbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(84bc5e0fe164fc642bd4d0c3a3eddbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a77ac9f3bf12247a0f3c2e6bc85d6b5') in 0.217188 seconds 
+  Import took 0.253041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 158.933019 seconds.
+  path: Assets/Models/pareeedes.fbx
+  artifactKey: Guid(0f0d63e4b5f32b04bafc69bf5988b646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/pareeedes.fbx using Guid(0f0d63e4b5f32b04bafc69bf5988b646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b781d2ca14a311a5bfeb20f93c891404') in 2.756305 seconds 
+  Import took 2.779481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000656 seconds.
+  path: Assets/Models/techo.fbx
+  artifactKey: Guid(7dcdf950ab9e8a14ebafd2c0b4baa648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/techo.fbx using Guid(7dcdf950ab9e8a14ebafd2c0b4baa648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fcb2962a60a9b6528a251606201c59e') in 0.038835 seconds 
+  Import took 0.044540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003533 seconds.
+  path: Assets/Models/techo.fbx
+  artifactKey: Guid(7dcdf950ab9e8a14ebafd2c0b4baa648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/techo.fbx using Guid(7dcdf950ab9e8a14ebafd2c0b4baa648) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fcb2962a60a9b6528a251606201c59e') in 0.035544 seconds 
+  Import took 0.092290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 358.220497 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.016028 seconds 
+  Import took 0.069710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.816274 seconds.
+  path: Assets/Texturas
+  artifactKey: Guid(8b8a7e6a85dd1ac42828aaeb7639faa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas using Guid(8b8a7e6a85dd1ac42828aaeb7639faa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd3f63a57b25bd83dd68fa4b5793eb0') in 0.004318 seconds 
+  Import took 0.009499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001186 seconds.
+  path: Assets/Texturas
+  artifactKey: Guid(8b8a7e6a85dd1ac42828aaeb7639faa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas using Guid(8b8a7e6a85dd1ac42828aaeb7639faa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd3f63a57b25bd83dd68fa4b5793eb0') in 0.004540 seconds 
+  Import took 0.007447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.069498 seconds.
+  path: Assets/Texturas/floorlianas
+  artifactKey: Guid(52ad82fed26d9b747950360d174b20cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/floorlianas using Guid(52ad82fed26d9b747950360d174b20cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '134e26222e9e95751e85abe8d5b7b9c1') in 0.004934 seconds 
+  Import took 0.047352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004831 seconds.
+  path: Assets/Texturas/floorlianas/Jungle_Floor_001_ambientOcclusion.jpg
+  artifactKey: Guid(d36a4a0d45ad73e47800e33efccf6880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/floorlianas/Jungle_Floor_001_ambientOcclusion.jpg using Guid(d36a4a0d45ad73e47800e33efccf6880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '925a96b5f1436f9a9511f32600e50944') in 0.209322 seconds 
+  Import took 0.245295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Texturas/floorlianas/Jungle_Floor_001_height.png
+  artifactKey: Guid(569ff11e701716946886217b2f9280c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/floorlianas/Jungle_Floor_001_height.png using Guid(569ff11e701716946886217b2f9280c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2299b27d2d001efe219bca9f2a7e7699') in 0.068618 seconds 
+  Import took 0.107391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Texturas/floorlianas/Jungle_Floor_001_normal.jpg
+  artifactKey: Guid(730dbf5b4a641d54fbcf8a60803570ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/floorlianas/Jungle_Floor_001_normal.jpg using Guid(730dbf5b4a641d54fbcf8a60803570ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8fb4e02da9795d2c05fdae783258da7') in 0.018819 seconds 
+  Import took 0.039989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Texturas/floorlianas/Material_1194.jpg
+  artifactKey: Guid(d6832f8e6449dcf4baca21812eedb966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/floorlianas/Material_1194.jpg using Guid(d6832f8e6449dcf4baca21812eedb966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8112edcf73587ad4cc3f4219431693aa') in 0.020298 seconds 
+  Import took 0.120086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Texturas/floorlianas/Jungle_Floor_001_basecolor.jpg
+  artifactKey: Guid(f82cefbbee554344dbab6fd9a23eaf8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/floorlianas/Jungle_Floor_001_basecolor.jpg using Guid(f82cefbbee554344dbab6fd9a23eaf8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0debdbcd89e41e91d15233d50cc903b1') in 0.027961 seconds 
+  Import took 0.041238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Texturas/floorlianas/Jungle_Floor_001_roughness.jpg
+  artifactKey: Guid(e5d462b9f86ac644b940b6817083e16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/floorlianas/Jungle_Floor_001_roughness.jpg using Guid(e5d462b9f86ac644b940b6817083e16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d0b61670c82eadce8063e5c99e9d59') in 0.015845 seconds 
+  Import took 0.022786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.027258 seconds.
+  path: Assets/Texturas/floorlianas/Materials
+  artifactKey: Guid(c985ba179a07d864bbd3e4cd57c8a36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/floorlianas/Materials using Guid(c985ba179a07d864bbd3e4cd57c8a36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b7417a610887fe0b69cd435433240d3') in 0.007383 seconds 
+  Import took 0.064709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Texturas/floorlianas/Materials/Jungle_Floor_001_ambientOcclusion.mat
+  artifactKey: Guid(76c16d594efe8d94e8fcc886327f702e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/floorlianas/Materials/Jungle_Floor_001_ambientOcclusion.mat using Guid(76c16d594efe8d94e8fcc886327f702e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd33398076b8d314442c60ff894d28cd9') in 0.249910 seconds 
+  Import took 0.283167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.006710 seconds.
+  path: Assets/Texturas/stonecuadros
+  artifactKey: Guid(bd19a67084db54744b381217d64cd1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/stonecuadros using Guid(bd19a67084db54744b381217d64cd1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b7c8515cd04548303f7d2e03786ad1c') in 0.032144 seconds 
+  Import took 0.036478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043282 seconds.
+  path: Assets/Texturas/stonecuadros/Material_1733.jpg
+  artifactKey: Guid(d127c3893dcd18241ad1ab233210d4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/stonecuadros/Material_1733.jpg using Guid(d127c3893dcd18241ad1ab233210d4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7dbf8983572669f60b77becf4d2793') in 0.137312 seconds 
+  Import took 0.156321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Texturas/stonecuadros/Stylized_Stone_Wall_001_basecolor.jpg
+  artifactKey: Guid(d0006c7d11d083d42a01c96483486b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/stonecuadros/Stylized_Stone_Wall_001_basecolor.jpg using Guid(d0006c7d11d083d42a01c96483486b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0deb74f5d13ff76081643f32b000da') in 0.017126 seconds 
+  Import took 0.071621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Texturas/stonecuadros/Stylized_Stone_Wall_001_normal.jpg
+  artifactKey: Guid(48dd1bf0207a94b40a71284ffba5c221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/stonecuadros/Stylized_Stone_Wall_001_normal.jpg using Guid(48dd1bf0207a94b40a71284ffba5c221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b25dfa6703b83dafa869e422592a7d') in 0.015089 seconds 
+  Import took 0.018197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Texturas/stonecuadros/Stylized_Stone_Wall_001_height.png
+  artifactKey: Guid(209fda66830ae6a4191623add1d47b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/stonecuadros/Stylized_Stone_Wall_001_height.png using Guid(209fda66830ae6a4191623add1d47b94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba70912d90b47d33e341632178759b96') in 0.036018 seconds 
+  Import took 0.068162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Texturas/stonecuadros/Stylized_Stone_Wall_001_ambientOcclusion.jpg
+  artifactKey: Guid(43f639c430975924b86596c8d24c46f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/stonecuadros/Stylized_Stone_Wall_001_ambientOcclusion.jpg using Guid(43f639c430975924b86596c8d24c46f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a09965253d4cf87fe2e9112f3f18d49') in 0.043992 seconds 
+  Import took 0.063299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Texturas/stonecuadros/Stylized_Stone_Wall_001_roughness.jpg
+  artifactKey: Guid(217c0d3b291cb874bbc3ce9682f6495e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/stonecuadros/Stylized_Stone_Wall_001_roughness.jpg using Guid(217c0d3b291cb874bbc3ce9682f6495e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb4237554edb05299299f32a96edec8d') in 0.037652 seconds 
+  Import took 0.065963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.805018 seconds.
+  path: Assets/Texturas/stonecuadros/Materials
+  artifactKey: Guid(bc3f4d5b7749e7642a99cba9d99a0816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/stonecuadros/Materials using Guid(bc3f4d5b7749e7642a99cba9d99a0816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425bd05f05ca3aa84c3085cfcef62b1c') in 0.013787 seconds 
+  Import took 0.019252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046565 seconds.
+  path: Assets/Texturas/stonecuadros/Materials/Material_1733.mat
+  artifactKey: Guid(6262114a93bad764c890e531e8b64627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/stonecuadros/Materials/Material_1733.mat using Guid(6262114a93bad764c890e531e8b64627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4113abb8989d03eb4a158724a7394c02') in 0.219920 seconds 
+  Import took 0.238938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.553893 seconds.
+  path: Assets/Texturas/groundwet
+  artifactKey: Guid(c81cadee47d6bfd43b8932392c245745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet using Guid(c81cadee47d6bfd43b8932392c245745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d17cbe2c2b6e98b4eefbe921200950') in 0.004704 seconds 
+  Import took 0.008175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000704 seconds.
+  path: Assets/Texturas/groundwet
+  artifactKey: Guid(c81cadee47d6bfd43b8932392c245745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet using Guid(c81cadee47d6bfd43b8932392c245745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d17cbe2c2b6e98b4eefbe921200950') in 0.004750 seconds 
+  Import took 0.009702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050716 seconds.
+  path: Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_ambientOcclusion.jpg
+  artifactKey: Guid(604b5413012713e448ad8caf274e0759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_ambientOcclusion.jpg using Guid(604b5413012713e448ad8caf274e0759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd07ed209e1697827b936a4bca4906e1') in 0.059894 seconds 
+  Import took 0.078319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_roughness.jpg
+  artifactKey: Guid(04bef455b7cdc5044a22c51382487473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_roughness.jpg using Guid(04bef455b7cdc5044a22c51382487473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df28f72b8d9819c02616114b86b7e31') in 0.045789 seconds 
+  Import took 0.049762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_basecolor.jpg
+  artifactKey: Guid(9d927542301fff941aea6de08630ad2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_basecolor.jpg using Guid(9d927542301fff941aea6de08630ad2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f640392aa4d195d1f44fa69a6d46f5') in 0.040641 seconds 
+  Import took 0.059312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_normal.jpg
+  artifactKey: Guid(fd43a0e31aef61b4d9898f5dcb91b539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_normal.jpg using Guid(fd43a0e31aef61b4d9898f5dcb91b539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85551375016d1d66ee9584ddc6192ea') in 0.032562 seconds 
+  Import took 0.040035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Texturas/groundwet/Material_1534.jpg
+  artifactKey: Guid(d01757b692b506f4fa6ebd5958ff21c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Material_1534.jpg using Guid(d01757b692b506f4fa6ebd5958ff21c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db016c035deefb15794b2c9ec4d4dcb') in 0.020180 seconds 
+  Import took 0.045639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001535 seconds.
+  path: Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_height.png
+  artifactKey: Guid(5b1c4542f404b6a48bde4de711218309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_height.png using Guid(5b1c4542f404b6a48bde4de711218309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7dbebbcd9bd339bb677db7b0050a683') in 0.041136 seconds 
+  Import took 0.055444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_height.png
+  artifactKey: Guid(5b1c4542f404b6a48bde4de711218309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Ground_Wet_Pebbles_001_height.png using Guid(5b1c4542f404b6a48bde4de711218309) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7dbebbcd9bd339bb677db7b0050a683') in 0.027307 seconds 
+  Import took 0.030864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.248554 seconds.
+  path: Assets/Texturas/groundwet/Materials
+  artifactKey: Guid(47d57e2002708f544bd05a9a1c8d2eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Materials using Guid(47d57e2002708f544bd05a9a1c8d2eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b13044f746c194ff4c2969a9bffd53d') in 0.005512 seconds 
+  Import took 0.009459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059124 seconds.
+  path: Assets/Texturas/groundwet/Materials/Ground_Wet_Pebbles_001_ambientOcclusion.mat
+  artifactKey: Guid(c6fdc87c4bc46884aa23f956caf8b6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Materials/Ground_Wet_Pebbles_001_ambientOcclusion.mat using Guid(c6fdc87c4bc46884aa23f956caf8b6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93005b683b918391c1c7ba29fe7024bc') in 0.088359 seconds 
+  Import took 0.091614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Texturas/groundwet/Materials/Ground_Wet_Pebbles_001_basecolor.mat
+  artifactKey: Guid(0d00cd45705daee4f997639a5e3a9551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Materials/Ground_Wet_Pebbles_001_basecolor.mat using Guid(0d00cd45705daee4f997639a5e3a9551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5c65d186e24388b55449318ef9591f0') in 0.061360 seconds 
+  Import took 0.066226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Texturas/groundwet/Materials/Ground_Wet_Pebbles_001_roughness.mat
+  artifactKey: Guid(ef7beddc2c00e3d4cbd96005a14a4408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Materials/Ground_Wet_Pebbles_001_roughness.mat using Guid(ef7beddc2c00e3d4cbd96005a14a4408) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5147ba72963cf4cdcc95ef3013c5c052') in 0.169835 seconds 
+  Import took 0.187472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Texturas/groundwet/Materials/Ground_Wet_Pebbles_001_height.mat
+  artifactKey: Guid(b930ab14b8c76d049b7f3d3872a76403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Materials/Ground_Wet_Pebbles_001_height.mat using Guid(b930ab14b8c76d049b7f3d3872a76403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff1a0e64b2fe4b54787905c2eedad0f') in 0.094847 seconds 
+  Import took 0.099089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Texturas/groundwet/Materials/Ground_Wet_Pebbles_001_normal.mat
+  artifactKey: Guid(3c1e42d6015954c48967b7d018826008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/groundwet/Materials/Ground_Wet_Pebbles_001_normal.mat using Guid(3c1e42d6015954c48967b7d018826008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728d838cb506e0ed1575a54f4e6895a4') in 0.076890 seconds 
+  Import took 0.082866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.236457 seconds.
+  path: Assets/Scripts/Controllers
+  artifactKey: Guid(cdcbbb9d577de3a46aba8ce518b1af51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Controllers using Guid(cdcbbb9d577de3a46aba8ce518b1af51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be492bf427681186f93d6ed2a198dc5') in 0.023268 seconds 
+  Import took 0.026472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.757631 seconds.
+  path: Assets/Scripts/Controllers/First Person Control System
+  artifactKey: Guid(7c8ec54e48908694d88ae8fc1e43b63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Controllers/First Person Control System using Guid(7c8ec54e48908694d88ae8fc1e43b63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ab442f35d3cec2e02f0880d8186e934') in 0.046321 seconds 
+  Import took 0.049671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.439996 seconds.
+  path: Assets/Scenes/Escenario.unity
+  artifactKey: Guid(0428af0d87f1d15499cb47999173170e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Escenario.unity using Guid(0428af0d87f1d15499cb47999173170e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74ef74fd7c9b309f93d86c0f8936003b') in 0.026918 seconds 
+  Import took 0.031745 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.042458 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.652 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2652ms)
+		BeginReloadAssembly (219ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61ms)
+		EndReloadAssembly (2222ms)
+			LoadAssemblies (224ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (578ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (1040ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (226ms)
+				ProcessInitializeOnLoadAttributes (772ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1888.
+Total: 6.762400 ms (FindLiveObjects: 0.380100 ms CreateObjectMapping: 0.127800 ms MarkObjects: 6.229800 ms  DeleteObjects: 0.021600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.647 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1648ms)
+		BeginReloadAssembly (194ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1312ms)
+			LoadAssemblies (154ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (430ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (560ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (103ms)
+				ProcessInitializeOnLoadAttributes (434ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.0 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1890.
+Total: 3.420400 ms (FindLiveObjects: 0.167000 ms CreateObjectMapping: 0.085900 ms MarkObjects: 3.145100 ms  DeleteObjects: 0.020800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 177.531395 seconds.
+  path: Assets/Texturas/skeletons
+  artifactKey: Guid(e471c65689d1d5e49a15aabed4a5724b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/skeletons using Guid(e471c65689d1d5e49a15aabed4a5724b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea7aeceeaa9d04bdf8fb8c730b697458') in 0.010259 seconds 
+  Import took 0.036141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031386 seconds.
+  path: Assets/Texturas/skeletons/Catacomb_Wall_001_ambientOcclusion.jpg
+  artifactKey: Guid(9c5489818787dd24f90dff511c4d46e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/skeletons/Catacomb_Wall_001_ambientOcclusion.jpg using Guid(9c5489818787dd24f90dff511c4d46e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b6b79b97ccae1711873d4e7642108f') in 0.060544 seconds 
+  Import took 0.087959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Texturas/skeletons/Catacomb_Wall_001_normal.jpg
+  artifactKey: Guid(55575ea824b0ae843b7d487734c2bc40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/skeletons/Catacomb_Wall_001_normal.jpg using Guid(55575ea824b0ae843b7d487734c2bc40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d0a2f2cc7b516b26d440f6e08e25e1') in 0.015989 seconds 
+  Import took 0.019367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Texturas/skeletons/Material_1796.jpg
+  artifactKey: Guid(7967ad9ac6f11cd41a92cfdaaa98fa7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/skeletons/Material_1796.jpg using Guid(7967ad9ac6f11cd41a92cfdaaa98fa7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6b1f6b9dbe17aa0f6e4bfc22c193bf2') in 0.012934 seconds 
+  Import took 0.017483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Texturas/skeletons/Catacomb_Wall_001_basecolor.jpg
+  artifactKey: Guid(041e0a8f9494d08448ef58b53d6343dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/skeletons/Catacomb_Wall_001_basecolor.jpg using Guid(041e0a8f9494d08448ef58b53d6343dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae4e6bcddad8e5ca060c0ebd2628d70') in 0.014062 seconds 
+  Import took 0.027172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Texturas/skeletons/Catacomb_Wall_001_height.png
+  artifactKey: Guid(518582fc95a52c84d9fb261fe6b42e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/skeletons/Catacomb_Wall_001_height.png using Guid(518582fc95a52c84d9fb261fe6b42e9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d4099124bacf678ddc9889d7ea032b') in 0.016499 seconds 
+  Import took 0.020500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Texturas/skeletons/Catacomb_Wall_001_roughness.jpg
+  artifactKey: Guid(a3bc0e54ceb671645b125306ed4a0714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/skeletons/Catacomb_Wall_001_roughness.jpg using Guid(a3bc0e54ceb671645b125306ed4a0714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27639db7c94466f0d2f018ab9226e37') in 0.030922 seconds 
+  Import took 0.034923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005417 seconds.
+  path: Assets/Texturas/skeletons/Catacomb_Wall_001_roughness.jpg
+  artifactKey: Guid(a3bc0e54ceb671645b125306ed4a0714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas/skeletons/Catacomb_Wall_001_roughness.jpg using Guid(a3bc0e54ceb671645b125306ed4a0714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27639db7c94466f0d2f018ab9226e37') in 0.042667 seconds 
+  Import took 0.048206 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011317 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.828 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1828ms)
+		BeginReloadAssembly (150ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1599ms)
+			LoadAssemblies (120ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (429ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (83ms)
+			SetupLoadedEditorAssemblies (807ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (121ms)
+				ProcessInitializeOnLoadAttributes (660ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (11ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.1 MB.
+System memory in use after: 69.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1892.
+Total: 3.623100 ms (FindLiveObjects: 0.219700 ms CreateObjectMapping: 0.059900 ms MarkObjects: 3.320400 ms  DeleteObjects: 0.021000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
