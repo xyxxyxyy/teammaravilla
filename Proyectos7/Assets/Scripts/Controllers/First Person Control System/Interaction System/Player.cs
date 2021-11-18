@@ -36,7 +36,7 @@ public class Player : MonoBehaviour
         move_controller = GetComponent <MoveControl>();
         move_controller.body = body;
         move_controller.head = head;
-        move_controller.speed = 2;
+        move_controller.speed = 5;
 
     }
     private void Update()
